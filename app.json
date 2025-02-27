@@ -3,14 +3,14 @@
   "name":"Javiel-1.0",
   "description":"Whatsapp bot developed by javiel",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
-  "repository":"https://github.com/djalega8000/Zokou-2.0",
+  "logo":"https://i.ibb.co/9kQGvLgb/IMG-20250227-WA0037.jpg",
+  "repository":"https://github.com/Javiel632/Javiel-md",
   "succes_url":"/",
   "stack":"container",
   "env":{
     "PREFIXE":
     {
-      "description":"choisissez votre préfixe",
+      "description":"choose your prefix",
       "value":".",
       "required":true
     },
@@ -36,7 +36,7 @@
      "MENU LINKS" : {
     
       "description":"Image that appears on your menu ; example : link1,link2,link3......",
-      "value":"https://wallpapercave.com/uwp/uwp3943464.jpeg",
+      "value":"https://i.ibb.co/9kQGvLgb/IMG-20250227-WA0037.jpg",
       "required":false
        
      },
