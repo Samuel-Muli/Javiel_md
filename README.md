@@ -18,6 +18,6 @@
 
 ## Deploy on Panel
 
-- Open [Deploy](https://malvin-session-v7ad.onrender.com/) to get started with the Panel.
+- Open [Deploy](https://malvin-session-v7ad.onrender.app/) to get started with the Panel.
 
 - 𝗗𝗢𝗡𝗧 𝗙𝗢𝗥𝗚𝗘𝗧 𝗧𝗢 𝗦𝗧𝗔𝗥 𝗧𝗛𝗜𝗦 𝗥𝗘𝗣𝗢
